@@ -1,0 +1,1 @@
+/Users/maxvialykh/rust_projects/toy_chain_mempool_sig/toy_chain_mempool_sig/target/debug/libtoy_chain_mempool_sig.rlib: /Users/maxvialykh/rust_projects/toy_chain_mempool_sig/toy_chain_mempool_sig/src/lib.rs
