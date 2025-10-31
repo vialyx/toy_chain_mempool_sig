@@ -37,7 +37,7 @@ toy_chain_mempool_sig/
 ## 🦀 Build & Run
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:vialyx/toy_chain_mempool_sig.git
 cd toy_chain_mempool_sig
 cargo run
 ```
